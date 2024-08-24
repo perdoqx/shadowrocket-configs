@@ -30,10 +30,12 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,melord.net
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
+DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openwrt.org
@@ -44,6 +46,7 @@ DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
@@ -54,6 +57,7 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,vipdrive.net
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,gameloft
